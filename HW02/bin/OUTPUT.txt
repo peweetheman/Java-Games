@@ -1,0 +1,15 @@
+Patrick Phillips
+Class ID: 107
+
+Java eclipse auto-compiles
+
+Output:
+1 2 3 4 5 
+1.1 2.2 3.3 4.4 
+H E L L O 
+once upon a time 
+max Integer is: 5
+max Double is: 4.4
+max Character is: O
+max String is: upon
+Max char is (using functional interface): O
